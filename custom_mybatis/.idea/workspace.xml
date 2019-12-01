@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4ebd50c-e53d-463c-afe2-643a5b4d7ca2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../maven/apache-maven-3.6.2/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=local" />
+  </component>
+  <component name="ProjectId" id="1UNn1oZRPazZJlzvdmK8REMJlqN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/aia/mybatis/utils" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/aia/mybatis/utils" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/aia/mybatis" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="custom_mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aia.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aia.test" />
+      <option name="MAIN_CLASS_NAME" value="com.aia.test.Test" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test.testFindAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4ebd50c-e53d-463c-afe2-643a5b4d7ca2" name="Default Changelist" comment="" />
+      <created>1575205707394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575205707394</updated>
+      <workItem from="1575205712104" duration="6577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1066" y="219" key="#com.intellij.ide.util.MemberChooser" timestamp="1575209762673">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="1066" y="219" key="#com.intellij.ide.util.MemberChooser/0.23.1440.827@0.23.1440.827" timestamp="1575209762673" />
+    <state width="492" height="468" key="DebuggerActiveHint" timestamp="1575212091606">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="437" height="466" key="DebuggerActiveHint/0.23.1440.820@0.23.1440.820" timestamp="1575211372090" />
+    <state width="492" height="468" key="DebuggerActiveHint/0.23.1440.823@0.23.1440.823" timestamp="1575212091606" />
+    <state width="1082" height="211" key="GridCell.Tab.0.bottom" timestamp="1575212461485">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1082" height="262" key="GridCell.Tab.0.bottom/0.23.1440.820@0.23.1440.820" timestamp="1575211491044" />
+    <state width="1082" height="262" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1575212342141" />
+    <state width="1082" height="211" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1575212461485" />
+    <state width="1082" height="262" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1575212041001" />
+    <state width="1082" height="211" key="GridCell.Tab.0.center" timestamp="1575212461484">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1082" height="262" key="GridCell.Tab.0.center/0.23.1440.820@0.23.1440.820" timestamp="1575211491043" />
+    <state width="1082" height="262" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1575212342140" />
+    <state width="1082" height="211" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1575212461484" />
+    <state width="1082" height="262" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1575212041000" />
+    <state width="1082" height="211" key="GridCell.Tab.0.left" timestamp="1575212461483">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1082" height="262" key="GridCell.Tab.0.left/0.23.1440.820@0.23.1440.820" timestamp="1575211491042" />
+    <state width="1082" height="262" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1575212342139" />
+    <state width="1082" height="211" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1575212461483" />
+    <state width="1082" height="262" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1575212040998" />
+    <state width="1082" height="211" key="GridCell.Tab.0.right" timestamp="1575212461484">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1082" height="262" key="GridCell.Tab.0.right/0.23.1440.820@0.23.1440.820" timestamp="1575211491043" />
+    <state width="1082" height="262" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1575212342140" />
+    <state width="1082" height="211" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1575212461484" />
+    <state width="1082" height="262" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1575212041001" />
+    <state width="1082" height="262" key="GridCell.Tab.1.bottom" timestamp="1575212342143">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1082" height="262" key="GridCell.Tab.1.bottom/0.23.1440.820@0.23.1440.820" timestamp="1575211492085" />
+    <state width="1082" height="262" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1575212342143" />
+    <state width="1082" height="262" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1575211697886" />
+    <state width="1082" height="262" key="GridCell.Tab.1.bottom/0.23.1440.823@0.23.1440.823" timestamp="1575212041681" />
+    <state width="1082" height="262" key="GridCell.Tab.1.center" timestamp="1575212342142">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1082" height="262" key="GridCell.Tab.1.center/0.23.1440.820@0.23.1440.820" timestamp="1575211492083" />
+    <state width="1082" height="262" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1575212342142" />
+    <state width="1082" height="262" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1575211697885" />
+    <state width="1082" height="262" key="GridCell.Tab.1.center/0.23.1440.823@0.23.1440.823" timestamp="1575212041680" />
+    <state width="1082" height="262" key="GridCell.Tab.1.left" timestamp="1575212342141">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1082" height="262" key="GridCell.Tab.1.left/0.23.1440.820@0.23.1440.820" timestamp="1575211492082" />
+    <state width="1082" height="262" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1575212342141" />
+    <state width="1082" height="262" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1575211697885" />
+    <state width="1082" height="262" key="GridCell.Tab.1.left/0.23.1440.823@0.23.1440.823" timestamp="1575212041679" />
+    <state width="1082" height="262" key="GridCell.Tab.1.right" timestamp="1575212342142">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1082" height="262" key="GridCell.Tab.1.right/0.23.1440.820@0.23.1440.820" timestamp="1575211492084" />
+    <state width="1082" height="262" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1575212342142" />
+    <state width="1082" height="262" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1575211697886" />
+    <state width="1082" height="262" key="GridCell.Tab.1.right/0.23.1440.823@0.23.1440.823" timestamp="1575212041680" />
+    <state x="253" y="176" key="Maven.ArtifactSearchDialog" timestamp="1575207120558">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="253" y="176" key="Maven.ArtifactSearchDialog/0.23.1440.827@0.23.1440.827" timestamp="1575207120558" />
+    <state x="313" y="137" key="NewModule_or_Project.wizard" timestamp="1575211807211">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="313" y="137" key="NewModule_or_Project.wizard/0.23.1440.822@0.23.1440.822" timestamp="1575211807211" />
+    <state x="347" y="202" width="673" height="462" key="find.popup" timestamp="1575211986867">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="347" y="202" width="673" height="462" key="find.popup/0.23.1440.823@0.23.1440.823" timestamp="1575211986867" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aia/mybatis/utils/DataSourceUtil.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aia/mybatis/sqlsession/proxy/MapperProxy.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aia/mybatis/cfg/Configuration.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aia/mybatis/utils/XMLConfigBuilder.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aia/mybatis/utils/XMLConfigBuilder.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
